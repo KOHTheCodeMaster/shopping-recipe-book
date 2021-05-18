@@ -1,3 +1,7 @@
+# 5th Commit - Recipe Detail Structure
+------------------------------
+1. Designed the structure of the recipe detail.
+
 # 4th Commit - RecipePOJO & Recipe List Structure
 ------------------------------
 1. Designed the structure of the recipe list.
