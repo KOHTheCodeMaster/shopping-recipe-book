@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
+import {IngredientPOJO} from "../shared/models/ingredient.model";
 
 @Component({
   selector: 'app-shopping-list',
@@ -7,7 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ShoppingListComponent implements OnInit {
 
-  constructor() { }
+  public ingredientsList: IngredientPOJO[] = [
+    new IngredientPOJO('Bread Slice', 2),
+    new IngredientPOJO('Tomato', 3)
+  ]
+
+  constructor() {
+  }
 
   ngOnInit(): void {
   }

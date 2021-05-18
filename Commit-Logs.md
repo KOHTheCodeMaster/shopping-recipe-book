@@ -1,6 +1,12 @@
+# 6th Commit - Shopping List Structure
+------------------------------
+1. Designed the structure of the shopping list.
+2. Added IngredientPOJO model.
+
 # 5th Commit - Recipe Detail Structure
 ------------------------------
 1. Designed the structure of the recipe detail.
+
 
 # 4th Commit - RecipePOJO & Recipe List Structure
 ------------------------------
